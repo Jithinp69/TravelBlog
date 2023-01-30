@@ -1,0 +1,16 @@
+.section-place img{
+    border-radius: 50%;
+}
+
+.section-place {
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    float: left;
+    width: 50%;
+}
+
+.section-place .places{
+    width: 35%;
+    height: 75%;
+}
