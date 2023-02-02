@@ -13,9 +13,11 @@
 
 .places{
     padding: 40px;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     margin: 20px;
     background: transparent;
+    box-shadow: 5px 5px 5px 5px  black;
+
 }
 
 .places p {
